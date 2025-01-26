@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "product": "Moissanite",
+    "category": "rings",
+    "image": "https://imgur.com/SSGKSKNm.jpg",
+    "price": 46.69
+  },
+  {
+    "id": 2,
+    "product": "Gold Dust",
+    "category": "earrings",
+    "image": "https://imgur.com/7bJaJTYm.jpg",
+    "price": 20.99
+  },
+  {
+    "id": 3,
+    "product": "Tungsten",
+    "category": "rings",
+    "image": "https://imgur.com/aeRJ36om.jpg",
+    "price": 19.99
+  },
+  {
+    "id": 4,
+    "product": "Vintage",
+    "category": "watches",
+    "image": "https://imgur.com/QY9mRgxm.jpg",
+    "price": 15.09
+  },
+  {
+    "id": 5,
+    "product": "Tisot",
+    "category": "watches",
+    "image": "https://imgur.com/urDxEE5m.jpg",
+    "price": 17.49
+  },
+  {
+    "id": 6,
+    "product": "Sublime Diamond",
+    "category": "gemstones",
+    "image": "https://imgur.com/E9clUcX.jpg",
+    "price": 29.35
+  },
+  {
+    "id": 7,
+    "product": "Smart",
+    "category": "watches",
+    "image": "https://imgur.com/LdkVkM8.jpg",
+    "price": 18.99
+  },
+  {
+    "id": 8,
+    "product": "Watermelon Tourmaline",
+    "category": "gemstones",
+    "image": "https://imgur.com/fElHnYQ.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 9,
+    "product": "Senam Seri",
+    "category": "earrings",
+    "image": "https://imgur.com/iPY7G8M.jpg",
+    "price": 69.99
+  },
+  {
+    "id": 10,
+    "product": "Timepiece",
+    "category": "watches",
+    "image": "https://imgur.com/y0Qg8fa.jpg",
+    "price": 69.99
+  },
+  {
+    "id": 11,
+    "product": "Flappy",
+    "category": "earrings",
+    "image": "https://imgur.com/DNa5Tta.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 12,
+    "product": "Pink Diamond Egg",
+    "category": "gemstones",
+    "image": "https://imgur.com/47OUglv.jpg",
+    "price": 59.99
+  },
+  {
+    "id": 13,
+    "product": "Tanzanite",
+    "category": "gemstones",
+    "image": "https://imgur.com/Y0CM0MC.jpg",
+    "price": 59.99
+  },
+  {
+    "id": 14,
+    "product": "Zelda Parure",
+    "category": "earrings",
+    "image": "https://imgur.com/k3pUITo.jpg",
+    "price": 59.99
+  },
+  {
+    "id": 15,
+    "product": "Belsita",
+    "category": "earrings",
+    "image": "https://imgur.com/8DttSEM.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 16,
+    "product": "Telana",
+    "category": "earrings",
+    "image": "https://imgur.com/EiRroru.jpg",
+    "price": 39.99
+  },
+  {
+    "id": 17,
+    "product": "Daconia",
+    "category": "earrings",
+    "image": "https://imgur.com/AbYt4Vt.jpg",
+    "price": 59.99
+  },
+  {
+    "id": 18,
+    "product": "Fossil 4",
+    "category": "watches",
+    "image": "https://imgur.com/FqQsze4.jpg",
+    "price": 59.99
+  },
+  {
+    "id": 19,
+    "product": "AraGrand",
+    "category": "necklaces",
+    "image": "https://imgur.com/K7rHdoV.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 20,
+    "product": "Starlite Seige",
+    "category": "earrings",
+    "image": "https://imgur.com/LEfIg9Q.jpg",
+    "price": 7.99
+  },
+  {
+    "id": 21,
+    "product": "Goldder",
+    "category": "necklaces",
+    "image": "https://imgur.com/ortIBe2.jpg",
+    "price": 59.0
+  },
+  {
+    "id": 22,
+    "product": "Pure Gold",
+    "category": "rings",
+    "image": "https://imgur.com/u6I09vn.jpg",
+    "price": 69.0
+  },
+  {
+    "id": 23,
+    "product": "Nec Pendant",
+    "category": "necklaces",
+    "image": "https://imgur.com/JPtn3cA.jpg",
+    "price": 49.99
+  },
+  {
+    "id": 24,
+    "product": "Smart 4",
+    "category": "watches",
+    "image": "https://imgur.com/3yzlCzC.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 25,
+    "product": "Switch Joy-Con",
+    "category": "rings",
+    "image": "https://imgur.com/1yfYSA9.jpg",
+    "price": 13.99
+  }
+]
