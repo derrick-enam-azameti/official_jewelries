@@ -13,6 +13,7 @@ Official Jewelries is a user-friendly web application that allows customers to e
 
 ## How to Get Started
 - Clone the repository to your local machine.
-- Install dependencies using npm install or yarn install.
-- Run the development server with npm run dev or yarn dev.
+`git clone https://github.com/derrick-enam-azameti/official_jewelries.git`
+- Install dependencies using `npm install` or `yarn install`.
+- Run the development server with `npm run dev` or `yarn dev`.
 - Visit http://localhost:3000 in your browser to explore the app.
