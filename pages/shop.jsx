@@ -2,6 +2,7 @@ import ProductCard from '../components/ProductCard';
 import styles from '../styles/ShopPage.module.css';
 import { getProducts } from './api/products/index';
 
+// ShopPage component: Displays all available products
 const ShopPage = ({ products }) => {
   return (
     <div className={styles.container}>
@@ -17,6 +18,7 @@ const ShopPage = ({ products }) => {
 
 export default ShopPage;
 
+// getStaticProps: Fetches data at build time for static generation
 export async function getStaticProps() {
   const products = await getProducts();
   return { props: { products } };
