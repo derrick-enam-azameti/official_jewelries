@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { useSelector } from 'react-redux';
 import styles from '../styles/Navbar.module.css';
 
+// Navbar component: Displays the navigation bar with links and cart item count
 const Navbar = () => {
   const cart = useSelector((state) => state.cart);
 
