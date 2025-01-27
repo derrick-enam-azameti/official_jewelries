@@ -3,6 +3,7 @@ import ProductCard from '../../components/ProductCard';
 import styles from '../../styles/ShopPage.module.css';
 import { getProductsByCategory } from '../api/products/[category]';
 
+// CategoryPage component: Displays a list of products based on the selected category
 const CategoryPage = ({ products }) => {
   const router = useRouter();
 
@@ -20,6 +21,7 @@ const CategoryPage = ({ products }) => {
 
 export default CategoryPage;
 
+// getServerSideProps: Fetches data for the server-side rendering of the category page
 export async function getServerSideProps(ctx) {
   const category = ctx.query.category;
   const products = await getProductsByCategory(category);
