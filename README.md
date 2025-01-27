@@ -1,4 +1,7 @@
 # Official Jewelries
-Official Jewelries is a webapp that helps customers to glance through various beautiful jewelries and make purchases.
+Official Jewelries is a user-friendly web application that allows customers to explore a wide range of beautiful jewelry pieces and make purchases effortlessly.
 
-It is developed using nextjs and redux. It also employs the use of some apis.
+## Features
+- Browse Jewelry: View a collection of stunning jewelry pieces with detailed descriptions and images.
+- Smooth Shopping Experience: Add items to your cart and complete purchases seamlessly.
+- Dynamic Updates: Stay up-to-date with new arrivals and offers, thanks to integrated APIs.
