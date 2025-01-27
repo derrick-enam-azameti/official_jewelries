@@ -10,3 +10,9 @@ Official Jewelries is a user-friendly web application that allows customers to e
 - Next.js: A fast, modern framework for building web applications.
 - Redux: Manages state effectively for a smoother and more reliable user experience.
 - APIs: Enhance functionality and provide real-time data for product updates.
+
+## How to Get Started
+- Clone the repository to your local machine.
+- Install dependencies using npm install or yarn install.
+- Run the development server with npm run dev or yarn dev.
+- Visit http://localhost:3000 in your browser to explore the app.
