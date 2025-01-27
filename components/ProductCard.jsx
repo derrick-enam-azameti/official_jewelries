@@ -3,6 +3,7 @@ import { useDispatch } from 'react-redux';
 import { addToCart } from '../redux/cart.slice';
 import styles from '../styles/ProductCard.module.css';
 
+// ProductCard component: Displays product details and allows adding the product to the cart
 const ProductCard = ({ product }) => {
   const dispatch = useDispatch();
 
