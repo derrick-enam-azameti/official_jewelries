@@ -1,6 +1,6 @@
 # Official Jewelries
 Official Jewelries is a user-friendly web application that allows customers to explore a wide range of beautiful jewelry pieces and make purchases effortlessly.
-
+![Banner Image](https://imgur.com/fARDH76.jpg)
 ## Features
 - Browse Jewelry: View a collection of stunning jewelry pieces with detailed descriptions and images.
 - Smooth Shopping Experience: Add items to your cart and complete purchases seamlessly.
